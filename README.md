@@ -32,8 +32,8 @@
 1.  Đầu vào: là một văn bản Tiếng Việt 
 2.  Đầu ra: là câu văn bản Tiếng Việt đã được thêm các thực thể định danh cùng với loại định danh tương ứng
 
- - File báo cáo: [Final Report]()
- - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS114.N21/blob/main/Final%20Project/CS114_Final_Project.pptx)
+ - File báo cáo: [Final Report](https://github.com/VanKhaiii/CS221.O11/blob/main/Final%20Project/Documents/CS221_Report.pdf)
+ - Slide báo cáo; [Final Slide](https://github.com/VanKhaiii/CS221.O11/blob/main/Final%20Project/Documents/CS221_Slide.pptx)
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
